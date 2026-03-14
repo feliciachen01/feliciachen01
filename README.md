@@ -13,21 +13,21 @@
 </p>
 
 
-## 🚀 About Me 
+## ☘︎ About Me 
 I'm a third-year Computer Science student at UBC with a passion for turning raw data into stories that actually mean something. My focus is to visualize, communicate, and connect data in ways that drive real-world impact.
 
-Outside of data, I'm someone who's drawn to atmosphere, from architecture to finding the perfect cafe on a quiet street.
+Outside of data, I'm someone who's drawn to the arts, from admiring architecture to finding the perfect cafe on a quiet street.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [𖥔 Check Out My Full Portfolio Website](https://feliciachen01.github.io/)
 
       
-## 🔭 What I'm Currently Working On 
+## ☁︎ What I'm Currently Working On 
 
-- **Tiktok Content Moderation Analysis:** Using Python to classify videos as claims or opinions based on engagement metrics, routing them to fact-checkers or flagging for review.
-- **E-commerce Dashboard:** Exploring transaction trends and payment behavior through SQL analysis and an interactive Tableau dashboard.
-
+- **Tiktok Content Moderation Analysis:** Using Python to classify videos as claims or opinions based on user engagement metrics.
+- **E-commerce Dashboard:** Exploring transaction trends and payment behavior through SQL analysis.
+- **Open-Source Dependency Risk Database:** Designing a relational database schema mapping open-source dependencies.
 
 ## 🌱 Currently Learning 
 

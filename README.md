@@ -14,9 +14,7 @@
 
 
 ## ☘︎ About Me 
-I'm a third-year Computer Science student at UBC with a passion for turning raw data into stories that actually mean something. My focus is to visualize, communicate, and connect data in ways that drive real-world impact.
-
-Outside of data, I'm someone who's drawn to the arts, from admiring architecture to finding the perfect cafe on a quiet street.
+I'm a third-year Computer Science student at UBC with an interest in analysing, manipulating, and visualizing data in ways that drive real-world impact. Outside of data, I love exploring art galleries.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -25,8 +23,6 @@ Outside of data, I'm someone who's drawn to the arts, from admiring architecture
       
 ## ☁︎ What I'm Currently Working On 
 
-- **Tiktok Content Moderation Analysis:** Using Python to classify videos as claims or opinions based on user engagement metrics.
-- **E-commerce Dashboard:** Exploring transaction trends and payment behavior through SQL analysis.
 - **Open-Source Dependency Risk Database:** Designing a relational database schema mapping open-source dependencies.
 
 ## 🌱 Currently Learning 

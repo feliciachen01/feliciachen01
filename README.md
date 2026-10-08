@@ -1,3 +1,5 @@
-I'm a third-year Computer Science student at UBC focused on AI and data science. I enjoy working across the full pipeline, from wrangling messy datasets to building generalizable models. I'm actively developing my portfolio through hands-on projects in areas like customer analytics, predictive modeling, and A/B testing.
+Hi! I'm Felicia, a 4th-year CS student at UBC exploring AI engineering, intelligent systems, and emerging tech.
+
+I have experience building LLM/RAG applications, agentic workflows, and data pipelines, with interests in AI reliability, MLOps, multimodal AI, and embodied intelligence.
 
 [Check Out My Portfolio](https://feliciachen01.github.io/)     (currently under construction)
